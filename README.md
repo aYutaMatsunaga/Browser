@@ -77,3 +77,20 @@
 - WebXR
 - PresentationAPI
     - powerpointのような機能
+
+# 2日目
+
+## WebRTC
+- Peer to Peer
+- ビデオチャットの機能
+- [アプリ](https://appr.tc/)
+- [communication](https://antmedia.io/webrtc-servers/)
+    - MESH
+    - SFC
+    - MCU
+- MMU(Memory Management Unit)
+    - プロセス間の干渉をブロックする
+    - ハードウェアの単位で割り当てられるメモリを制限
+    - メモリ破壊の原因を特定できる
+- IPC(プロセス間通信)
+    - v4l2loopback
